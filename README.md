@@ -4,7 +4,10 @@ This is a basic TODO Javascript application with two functionalities as:
 - Add the ToDo task
 - Delete the ToDo task when it's done
 
-## How to run:
+## Live Demo
+To view the live demo, click here: [Live demo](https://puja-khirodkar.github.io/ToDoList/)
+
+## How to run on local machine:
     python -m SimpleHTTPServer
 
 This will start the server at some port for example port 8000.
