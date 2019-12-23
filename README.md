@@ -5,7 +5,7 @@ This is a basic TODO Javascript application with two functionalities as:
 - Delete the ToDo task when it's done
 
 ## How to run:
-    `python -m SimpleHTTPServer`
+    python -m SimpleHTTPServer
 
 This will start the server at some port for example port 8000.
 
